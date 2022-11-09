@@ -76,9 +76,6 @@ onMounted(() => {
 </template>
 
 <style scoped>
-.g-btn-wrapper {
-  display: inline-block;
-}
 .g-btn-wrapper.api-loading {
   opacity: 0.5;
   pointer-events: none;
