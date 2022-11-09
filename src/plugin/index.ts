@@ -10,7 +10,7 @@ import {
   googleAuthCodeLogin,
   googleSdkLoaded,
 } from "./utils";
-import { setState, libraryState } from "./state";
+import { setState } from "./state";
 import GoogleLogin from "./GoogleLogin.vue";
 
 export {
