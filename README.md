@@ -43,11 +43,11 @@ https://yobaji.github.io/vue3-google-login/
 First step is to install it using npm
 
 ```bash
-npm install vue3-google-login
+npm install tvhoan2908/vue3-google-login
 ```
 Or using yarn
 ```bash
-yarn add vue3-google-login
+yarn add tvhoan2908/vue3-google-login
 ```
 ### Initialize the plugin
 
